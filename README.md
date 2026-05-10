@@ -2,6 +2,6 @@
 
 Este proyecto corresponde al cuarto hito del curso de React, donde implementamos:
 - Consumo de APIs con React
-- LUso de useEffect.
+- Uso de useEffect.
 
 
